@@ -1,13 +1,16 @@
-h2.introheader {
+.headers {
   color: midnightblue;
 }
 
-p.intro {
-  width: 50%;
-  font-style: italic;
+.intros {
+  color: teal;
 }
 
-img.introimage{
-  border-radius: 20px;
+.primaryParas {
+  color: steelblue;
+}
+
+img.codeimg {
+  border-radius: 25px;
   max-width: 100%;
 }
