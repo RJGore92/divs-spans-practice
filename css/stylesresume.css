@@ -1,0 +1,31 @@
+.fullname {
+  top: 0;
+  float: left;
+  width: 400px;
+}
+
+.fullname h1 {
+  color: mediumseagreen;
+  font-size: 36px;
+  text-indent: 25px;
+}
+
+.contactinfo {
+  width: 200px;
+  top: 0;
+  float: right;
+}
+
+.contactinfo p {
+  text-align: left;
+  font-size: 12px;
+}
+
+.topborder hr {
+  width: 98%;
+  height: 5px;
+  border-style: outset;
+  border-width: 3px;
+  border-color: seagreen;
+  background-color: seagreen;
+}
