@@ -29,3 +29,13 @@
   border-color: seagreen;
   background-color: seagreen;
 }
+
+.primarypoint {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.referenceaor {
+  font-style: italic;
+  text-decoration: underline;
+}
